@@ -19,9 +19,7 @@ CTF-Website-Template-2020 is a frontend template made for a simple CTF event. Yo
 - Static HTML website for CTF ( Capture the Flag )
 
 ## What it isn't... YET?
-- Fully functional dynamic CTF website
-- Backend is being developed in **Django** Framework by [RutujaD182](https://github.com/RutujaD182)
-  - checkout [backend](https://github.com/ashawe/CTF-Website-Template-2020/tree/backend) branch for this
+HELL
 
 ## Getting Started
 
@@ -43,19 +41,7 @@ Feel free to update and send a pull request 😉
 
 ## Built With
 
-* [Neon Glow](https://hackerthemes.com/bootstrap-themes/demo/neon-glow) - Free Hackerthemes website theme
-
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Authors
-
-* **Harsh Saglani** ( [ashawe](https://github.com/ashawe) ) - *Initial work* & *Frontend*
-* **Rutuja Dhanawade** ( [RutujaD182](https://github.com/RutujaD182) ) - *Backend*
-
-See also the list of [contributors](https://github.com/ashawe/CTF-Website-Template-2020/graphs/contributors) who participated in this project.
+* [Neon Glow](https://hackerthemes.com/bootstrap-themes/demo/neon-glow) - Free Hackerthemes website theme.
 
 ## License
 
